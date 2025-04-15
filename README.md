@@ -35,7 +35,7 @@ Key relationship highlights:
 ## 🧠 Design Highlights
 
 - **Normalization**: Fully normalized to 3NF for consistency and reduced redundancy
-- **ER Diagram**: Conceptual and logical models developed with support for future scalability
+- **ER Diagram**: Conceptual model developed with support for future scalability
 - **Relational Schema**: Includes primary keys, foreign keys, and composite keys (e.g., `order_id`, `item_id` for OrderItems)
 - **Constraints**:
   - `ON DELETE CASCADE` and `ON UPDATE CASCADE` to ensure referential integrity
